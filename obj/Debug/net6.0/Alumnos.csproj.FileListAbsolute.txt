@@ -1,0 +1,15 @@
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.csproj.AssemblyReference.cache
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.AssemblyInfoInputs.cache
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.AssemblyInfo.cs
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Anuar Espinoza\source\repos\Alumnos\bin\Debug\net6.0\Alumnos.exe
+C:\Users\Anuar Espinoza\source\repos\Alumnos\bin\Debug\net6.0\Alumnos.deps.json
+C:\Users\Anuar Espinoza\source\repos\Alumnos\bin\Debug\net6.0\Alumnos.runtimeconfig.json
+C:\Users\Anuar Espinoza\source\repos\Alumnos\bin\Debug\net6.0\Alumnos.dll
+C:\Users\Anuar Espinoza\source\repos\Alumnos\bin\Debug\net6.0\Alumnos.pdb
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.dll
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\refint\Alumnos.dll
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.pdb
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\Alumnos.genruntimeconfig.cache
+C:\Users\Anuar Espinoza\source\repos\Alumnos\obj\Debug\net6.0\ref\Alumnos.dll
